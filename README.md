@@ -15,19 +15,18 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 - 🎓 Estudante de **Ciência da Computação na UFMG**
 - 💼 Estagiário no programa de **GenAI no iFood**
 - 🔬 Pesquisador de IC voluntário no **SPEED Lab (UFMG)**, com foco em **XAI** e **NLP**
-- 💡 Interesses: **Agentes de IA, LLMs (uso e teoria) e Machine Learning**
-- 🌱 Foco atual: Conectar a **pesquisa acadêmica** com aplicações reais e escalar aplicações de IA generativa.
+- Interesses: **Agentes de IA, LLMs (uso e teoria) e Interpretabilidade em IA e outros tópicos variados em ML**
+- Foco atual: Conectar a **pesquisa acadêmica** com aplicações reais e escalar aplicações de IA generativa.
 
 ---
 
-## 🛠 Tech Stack & Ferramentas
+## Stack
 
-**Linguagens & Dados** <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -35,7 +34,6 @@
 
 <br>
 
-**IA & ML** <br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -43,13 +41,11 @@
 
 <br>
 
-**Backend & Dev** <br>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 <br>
 
-**Ferramentas** <br>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Cursor" />
 
