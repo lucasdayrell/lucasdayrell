@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou o Lucas! 👋</h1>
 
 <p align="center">
-  <b>GenAI Intern @ iFood · Researcher @ SPEED Lab (UFMG) · GenAI & AI Agents · Machine Learning</b>
+  <b>GenAI Intern @ iFood · Researcher @ SPEED Lab (UFMG) · LLMs, agents e mech interp </b>
 </p>
 
 <p align="center">
